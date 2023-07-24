@@ -130,4 +130,6 @@ Notperry1234567890 - This developer initially copied code from Phobos, which is 
 
 PeterPePem/PeterDev - This developer was known for heavily copying code from Phobos, as well as being the main developer of Catware. They also leaked FutureX to Gopro336. However, it should be noted that they have since become a better coder.
 
+RoostaMasta - the biggest fucking oyvey skidder ever. unironically the worst coder ever.
+
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
